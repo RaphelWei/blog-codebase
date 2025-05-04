@@ -1,0 +1,44 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+*.swp
+
+# VSCode
+.vscode/
+.history/
+
+# IntelliJ / PyCharm / IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache & virtualenv
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv
+venv/
+pip-wheel-metadata/
+
+# Logs
+*.log
+
+# System
+Thumbs.db
+ehthumbs.db
+Desktop.ini
